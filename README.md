@@ -1,2 +1,18 @@
-# Project1
-Project 1 for Data Mining
+# PROJECT 1
+
+## INTRODUCTIONS
+
+
+
+## THE DATASET
+
+
+## PREPROCESSING
+
+
+## VISIUALIZATION
+
+
+## NOTES
+
+
