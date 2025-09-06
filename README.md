@@ -10,7 +10,7 @@ My Research Questions
 
 
 ## THE DATASET
-The data I chose to use is a file found from Kaggle called https://www.kaggle.com/datasets/kazanova/sentiment140.  I mostly chose this dataset because it has many columns, which gives me more ways of analyzing the data to answer my questions, as it contains 1.6 million tweets labeled for sentiment (positive or negative), along with other information such as timestamps.
+The data I chose to use is a file found from Kaggle called https://www.kaggle.com/datasets/kazanova/sentiment140. I mostly chose this dataset because it has many columns, which gives me more ways of analyzing the data to answer my questions, as it contains 1.6 million tweets labeled for sentiment (positive or negative), along with other information such as timestamps.
 
 ## PREPROCESSING
 In this project, I will clean data by removing irrelevant columns, cleaning up the text by removing URLs, mentions, emojis, and special characters. I will also be renaming columns so it's clearer and understandable. I will also convert text to make the words lowercase for it to be readable both ways.
