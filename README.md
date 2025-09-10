@@ -4,7 +4,7 @@
 In this project, I chose to analyze tweets using the Sentiment140 dataset. My goal is to understand patterns in how the wording and or the way text is framed a certain way text can express sentiment on whether it can have positive or negative emotions.
 
 My Research Questions
-- Pattern Focused: What are the most common words and phrases in positive tweets versus negative tweets? Do certain words or hashtags strongly correlate with positive or negative sentiment?
+- Pattern Focused: What are the most common words and phrases in positive tweets versus negative tweets?
 - Length of Message Focused: Does the length of a tweet correlate with its sentiment? Such as are shorter tweets more often positive or negative?
 - Day of Time Trends Focused: Are there specific times or days when positive or negative tweets are more common? 
 
