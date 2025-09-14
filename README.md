@@ -37,6 +37,19 @@ To explore the data, I plan to use
   *  `PROJECT1.ipynb`: My main code that has the data preprocessing, analysis, and visualization information.
  `training.1600000.processed.noemoticon.csv`: The raw dataset file.
 
+## TO VIEW VISUALIZATIONS 
+- Click on the file `PROJECT1.ipynb` and Preview and scroll to see visualizations.
+
+## TO RUN THIS PROJECT
+- Download Zip Locally
+- Download the raw dataset file from [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
+- Open Zip
+- Move the raw dataset file you got from the [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
+to the Project1-main folder
+- Open Visual Studio Code
+- Download the extensions Python, Jupyter if you don't have it already installed
+- Open the file using Visual Studio Code
+- Run the Code to View the Visualizations
 
 
 
