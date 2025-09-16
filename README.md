@@ -26,9 +26,10 @@ To explore the data, I plan to use
 - Line Graph: to be used to plot the number of positive and negative tweets over time, such as by hour of the day, to show patterns of tweet amounts for that specific time.
 
 ## STORY
-
+When I was exploring this dataset, my thoughts were on how the length of a tweet can have a positive or negative sentiment, or whether it was the specific wording of the tweet that gave it that specific sentiment. The bar chart showed the distribution level of specific words that are frequent based on sentiment, which were labeled as either positive, negative, and it showed how tweets were based on it at the start with generic words, but as I analyzed to find unique words it showed a level frequency but not really a story behind the tone of so the prominent words on the bar chart are just words that can be associated with sentiment. The box plot compared tweet lengths across sentiment types. There were noticeable outliers on the longer end of the spectrum for positive sentiment. These outliers can suggest that when there is expression, it can skew positively. The line graph tracked sentiment trends over time of the day. It revealed spikes at the end of the day and during the day was a its lowest, meaning this could suggest that users have time to express during certain points of the day.
 
 ## IMPACT
+- Overall, I think analyzing the tweets of this sentiment could provide a level of observations based on the visualizations themselves. The lack of perspective could probably skew the sentiment the and the charts can not tell the whole story of a message. Along with that, there is bias in sentiment as it associates certain words with positive or negative emotions, but based on the tone of the message, it can miss parts. Such as one of the top ten unique positive words I got was "thanks," but that word can also be used in other tones, such as sarcasm, so it lacks textual context, but that word makes the tweet itself skew positively despite a lack of context.
 
 
 ## REFERENCES
